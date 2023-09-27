@@ -1,0 +1,21 @@
+
+PROJE ADI:GoogleMaps Automation Test Projesi
+
+PROJENİN TANIMI:
+
+Bu otomasyon projesi, Cucumber tabanlı bir BDD yaklaşımı kullanarak geliştirilmiştir ve
+Apache POI kütüphanesi ile entegre edilmiştir.Böylece elde edilen sonuçları düzenli bir şekilde kaydedip
+izlemek mümkün olmaktadır.
+Projedeki senaryo, google maps üzerinde farklı rotalar oluşturarak tahmini ulaşım bilgilerini ve güzergahları
+listeler.
+
+KULLANILAN TEKNOLOJİLER :
+
+
+CUCUMBER BDD :Senaryo yönetimi ve test raporlama.
+SELENIUM WEBDRİVER :Web otomasyon testleri için kullanılmıştır.
+APACHE POI : Excel verilerini okuma ve yazma işlemleri için kullanılmıştır.
+TESTNG : Test senaryolarının yönetimi ve cross-browser testi için kullanılmıştır.
+XML : Cross browser testini yönetmek için kullanıldı.
+Java : Proje JAVA OOP prensibine uygun olarak kodlandı.
+ExtentReports : Raporlama aracı olark kullanıldı ve test sonuçları görselleştirildi.
